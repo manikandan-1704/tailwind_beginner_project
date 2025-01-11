@@ -1,5 +1,7 @@
 # Tailwind CSS Beginner Project
 
+**[Live Demo: SoundMate](https://soundmate-mk.netlify.app/)**
+
 This is a single-page project created using **Tailwind CSS**, designed to demonstrate the basics of responsive design and utility-first CSS. It is beginner-friendly and easy to use. Simply download the project, open the HTML file in your browser, and you're good to go!
 
 ## Features
@@ -29,6 +31,12 @@ To run this project, all you need is:
 
    - Resize your browser window to see the responsiveness in action.
    - Experiment with the code to learn how Tailwind CSS classes work.
+
+  
+## Demo
+
+Check out the live demo of Soundmate:
+https://soundmate-mk.netlify.app/
 
 ## Feedback
 
